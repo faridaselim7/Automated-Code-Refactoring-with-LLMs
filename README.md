@@ -1,4 +1,3 @@
-# Automated-Code-Refactoring-with-LLMs
 # SAFIR: Static Analysis Feedback for Iterative Code Refactoring
 
 SAFIR is an automated Java code-refactoring framework that combines Large Language Model generation with compilation validation and static analysis feedback.
