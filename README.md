@@ -57,8 +57,6 @@ DeepSeek-Coder-V2-Lite-Instruct
 
 The model is executed locally using Ollama.
 
-The pipeline was also evaluated using Qwen2.5-Coder to study how the selected base model affects refactoring quality.
-
 ### PMD
 
 PMD analyzes Java source code for maintainability and structural issues, such as:
