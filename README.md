@@ -6,7 +6,7 @@ Instead of accepting a single LLM-generated refactoring, SAFIR evaluates the gen
 
 This repository contains the implementation developed for the research paper:
 
-> **SAFIR: Static Analysis Feedback for Iterative Code Refactoring with Large Language Models**
+> **Automated Code Refactoring with Large Language Models**
 
 ## Overview
 
