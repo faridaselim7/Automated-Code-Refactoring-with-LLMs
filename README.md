@@ -2,7 +2,7 @@
 
 SAFIR is an automated Java code-refactoring framework that combines Large Language Model generation with compilation validation and static analysis feedback.
 
-Instead of accepting a single LLM-generated refactoring, SAFIR evaluates the generated code and iteratively guides the model using violations detected by PMD, Checkstyle, and SpotBugs.
+Instead of accepting a single LLM-generated refactoring, SAFIR evaluates the generated code and iteratively guides the model using violations detected by three static analysis tools: PMD, Checkstyle, and SpotBugs.
 
 This repository contains the implementation developed for the research paper:
 
