@@ -233,5 +233,6 @@ The generated XML reports are stored in the Maven `target` directory and parsed 
 The complete SAFIR research evaluation reported:
 
 | Metric | Result |
+|---|---:|
 | Pipeline Average Code Smell Reduction Rate | 30.9% |
 | LLM-only Average Code Smell Reduction Rate | 20.0% |
